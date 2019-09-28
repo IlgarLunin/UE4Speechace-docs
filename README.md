@@ -1,6 +1,6 @@
 # **UE4 Speechace**
 
-![](pics/SPTitle.png)
+![title](pics/SPTitle.png)
 
 This is UE4 wrapper for [Speechace](https://www.speechace.com/) speech recognition service.
 
