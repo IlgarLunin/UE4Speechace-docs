@@ -39,7 +39,7 @@ Unlike other speech recognition services, here you have to provide voice sample 
 
 ![pipeline](pics/basicpipeline.png)
 
-Once request completed, use **TextScore** structure to populate user interface.
+Once request completed, use **Scoring** structure to populate user interface.
 
 ![scoreusage](pics/scoreusage.png)
 
