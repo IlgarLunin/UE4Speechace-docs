@@ -6,6 +6,11 @@ This is UE4 wrapper for amazing [Speechace](https://www.speechace.com/) speech r
 
 Plugin was used in production to create several english training VR games.
 
+# Example application
+
+![exampleapp](pics/exampleApp.png)
+![exampleappsource](pics/wbpsource.png)
+
 # Preparation
 
 1) Contact with [Speechace](https://www.speechace.com/) guys and get the API key.
