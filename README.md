@@ -2,7 +2,7 @@
 
 ![title](pics/SPTitle.png)
 
-This is UE4 wrapper for amazing [Speechace](https://www.speechace.com/) speech recognition service.
+This is [Unreal Engine 4](https://www.unrealengine.com) integration of amazing [Speechace](https://www.speechace.com/) speech recognition service.
 
 Plugin was used in production to create several english training VR games.
 
