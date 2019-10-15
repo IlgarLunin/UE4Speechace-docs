@@ -6,8 +6,9 @@ This is [Unreal Engine 4](https://www.unrealengine.com) integration of amazing [
 
 Plugin was used in production to create several english training VR games.
 
-# Example application
+# Example applications
 
+![exampleappsource](pics/speechace-gallery5.jpg)
 ![exampleapp](pics/exampleApp.png)
 ![exampleappsource](pics/wbpsource.png)
 
